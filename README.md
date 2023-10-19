@@ -1,2 +1,2 @@
-# Estiliza-o-B-sica-CSS
+# Estilização-Básica-CSS
 Aprendendo CSS com a DIO
