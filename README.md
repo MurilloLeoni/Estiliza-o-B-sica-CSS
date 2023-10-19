@@ -1,2 +1,2 @@
-# Estilização-Básica-CSS
-Aprendendo CSS com a DIO
+# Estilizacao-Basica-CSS
+Aprendendo CSS com a DIO. Meu progresso de aprendizado.
